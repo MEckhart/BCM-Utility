@@ -1,0 +1,18 @@
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\bin\Debug\BCM Utility.exe
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\bin\Debug\BCM Utility.pdb
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM_Utility.Form1.resources
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM_Utility.Properties.Resources.resources
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM Utility.csproj.GenerateResource.cache
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM Utility.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM Utility.exe
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM Utility.pdb
+C:\Users\IEUser\source\repos\BCM Utility\BCM Utility\obj\Debug\BCM Utility.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\bin\Debug\BCM Utility.exe
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\bin\Debug\BCM Utility.pdb
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM Utility.csprojAssemblyReference.cache
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM_Utility.Form1.resources
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM_Utility.Properties.Resources.resources
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM Utility.csproj.GenerateResource.cache
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM Utility.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM Utility.exe
+C:\Users\IEUser\Desktop\BCM Utility\BCM Utility\obj\Debug\BCM Utility.pdb
